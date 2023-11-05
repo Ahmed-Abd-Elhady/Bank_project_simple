@@ -1,0 +1,17 @@
+{
+    "user_access_users": {
+        "Ali": "No",
+        "Ahmed": "Yes",
+        "Alla": "Yes",
+        "Kngako": "No"
+    },
+    "user_friends_money_in_bank": {
+        "Ali": 4000,
+        "Ahmed": 8200,
+        "Alla": 9200,
+        "Kngako": 500
+    },
+    "money_in_bank": {
+        "user": 3000
+    }
+}
